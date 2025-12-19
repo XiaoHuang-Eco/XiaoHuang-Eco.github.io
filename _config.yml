@@ -1,3 +1,14 @@
+############################################################
+# Final academic homepage config (Beautiful Jekyll)
+# Author: Xiao Huang
+############################################################
+
+############################
+# --- Theme (CRITICAL) --- #
+############################
+
+remote_theme: daattali/beautiful-jekyll
+
 ############################
 # --- Basic site info --- #
 ############################
@@ -5,15 +16,10 @@
 title: Xiao Huang
 author: Xiao Huang
 description: >
-  PhD candidate in Macroecology at Wuhan Botanical Garden, Chinese Academy of Sciences.
-  Research focuses on frugivory, seed dispersal, trait matching, and large-scale biodiversity patterns.
-
-############################
-# --- URL settings --- #
-############################
-
-# 如果你还没绑定域名，可以先注释掉
-# url: "https://xiaohuang.github.io"
+  PhD candidate in Macroecology at Wuhan Botanical Garden,
+  Chinese Academy of Sciences. Research interests include
+  frugivory, seed dispersal, trait matching, and large-scale
+  biodiversity patterns.
 
 ############################
 # --- Navigation bar --- #
@@ -30,37 +36,37 @@ navbar-links:
 # --- Avatar --- #
 ################
 
-# 建议你之后放一张正经学术照
+# 如果你之后上传照片，可取消注释
 # avatar: "/assets/img/avatar.jpg"
 round-avatar: true
 
 #####################################
-# --- Footer & social links --- #
+# --- Footer social links --- #
 #####################################
 
 social-network-links:
   email: "xh_eco@outlook.com"
   ORCID: "0009-0000-4762-8864"
- # ResearchGate: "Xiao-Huang-28"
+  ResearchGate: "Xiao-Huang-28"
   rss: false
 
-###########################
-# --- Page behaviour --- #
-###########################
-
-title-on-all-pages: true
-
 ############################
-# --- Disable blog features --- #
+# --- Academic site mode --- #
 ############################
 
-# 这是“去博客化”的关键
+# 彻底关闭博客 / 分页 / 社交分享
 paginate: 0
-permalink: /:title/
 post_search: false
 feed_show_excerpt: false
 feed_show_tags: false
 share-links-active: {}
+
+############################
+# --- URL behaviour --- #
+############################
+
+permalink: /:title/
+title-on-all-pages: true
 
 ############################
 # --- Appearance --- #
@@ -96,12 +102,20 @@ defaults:
     values:
       layout: "page"
 
+############################
+# --- Exclude junk files --- #
+############################
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENSE
   - docs/
+
+############################
+# --- Plugins --- #
+############################
 
 plugins:
   - jekyll-sitemap
