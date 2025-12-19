@@ -6,8 +6,7 @@ title: Contact
 xh_eco@outlook.com
 
 **Research profiles:**  
-- Google Scholar  
-- ORCID  
-- ResearchGate
+- [ORCID](https://orcid.org/0009-0000-4762-8864)  
+- [ResearchGate](https://www.researchgate.net/profile/Xiao-Huang-28)
 
 I am open to academic collaboration and discussions related to plant–animal interactions, macroecology, and biodiversity conservation.
