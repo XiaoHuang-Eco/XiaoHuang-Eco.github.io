@@ -1,5 +1,3 @@
-md
-
 ---
 title: Research
 ---
