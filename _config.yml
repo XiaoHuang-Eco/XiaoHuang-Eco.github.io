@@ -1,49 +1,27 @@
-############################################################
-# Final academic homepage config (Beautiful Jekyll)
-# Author: Xiao Huang
-############################################################
-
-############################
-# --- Theme (CRITICAL) --- #
-############################
-
-remote_theme: daattali/beautiful-jekyll
-
-############################
-# --- Basic site info --- #
-############################
+###########################################################
+# Beautiful Jekyll (保留原始模板 + ORCID/ResearchGate)
+###########################################################
 
 title: Xiao Huang
 author: Xiao Huang
-description: >
-  PhD candidate in Macroecology at Wuhan Botanical Garden,
-  Chinese Academy of Sciences. Research interests include
-  frugivory, seed dispersal, trait matching, and large-scale
-  biodiversity patterns.
+
+remote_theme: daattali/beautiful-jekyll  # 使用远程主题，覆盖本地 theme 设置
 
 ############################
-# --- Navigation bar --- #
+# --- Navigation --- #
 ############################
-
 navbar-links:
-  About: "about"
+  About Me: "about"
   Research: "research"
   Publications: "publications"
   CV: "cv"
   Contact: "contact"
 
-################
-# --- Avatar --- #
-################
-
-# 如果你之后上传照片，可取消注释
-# avatar: "/assets/img/avatar.jpg"
 round-avatar: true
 
-#####################################
-# --- Footer social links --- #
-#####################################
-
+############################
+# --- Social --- #
+############################
 social-network-links:
   email: "xh_eco@outlook.com"
   ORCID: "0009-0000-4762-8864"
@@ -51,43 +29,41 @@ social-network-links:
   rss: false
 
 ############################
-# --- Academic site mode --- #
+# --- Disable Pagination --- #
 ############################
-
-# 彻底关闭博客 / 分页 / 社交分享
-paginate: 0
-post_search: false
-feed_show_excerpt: false
-feed_show_tags: false
-share-links-active: {}
+paginate: 0        # 关闭分页，避免 NaN
+post_search: true
+feed_show_excerpt: true
+feed_show_tags: true
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
 
 ############################
-# --- URL behaviour --- #
+# --- URL --- #
 ############################
-
-permalink: /:title/
+permalink: /:title/  # 避免使用 :year/:month/:day 引发 NaN
 title-on-all-pages: true
 
 ############################
-# --- Appearance --- #
+# --- Colors --- #
 ############################
-
 page-col: "#FFFFFF"
-text-col: "#2B2B2B"
-link-col: "#005BBB"
-hover-col: "#003F7D"
-navbar-col: "#F5F5F5"
-navbar-text-col: "#2B2B2B"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#F5F5F5"
+footer-col: "#EAEAEA"
 footer-text-col: "#777777"
-footer-link-col: "#2B2B2B"
-footer-hover-col: "#003F7D"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
 ############################
-# --- Build settings --- #
+# --- Build --- #
 ############################
-
 timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
@@ -96,26 +72,28 @@ kramdown:
   input: GFM
 
 defaults:
-  -
-    scope:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+      social-share: true
+  - scope:
       path: ""
     values:
       layout: "page"
 
-############################
-# --- Exclude junk files --- #
-############################
-
 exclude:
+  - CHANGELOG.md
+  - CNAME
   - Gemfile
   - Gemfile.lock
-  - README.md
   - LICENSE
+  - README.md
+  - screenshot.png
   - docs/
 
-############################
-# --- Plugins --- #
-############################
-
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
