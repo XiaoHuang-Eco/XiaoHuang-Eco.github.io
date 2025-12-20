@@ -1,3 +1,10 @@
+
+---
+
+<div class="side-background left-bg"></div>
+<div class="side-background right-bg"></div>
+
+
 ---
 layout: home
 title: Macroecology and more!
