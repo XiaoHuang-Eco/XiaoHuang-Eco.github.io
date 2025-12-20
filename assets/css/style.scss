@@ -1,0 +1,24 @@
+/* === Home Buttons Custom Style for Beautiful Jekyll === */
+.home-buttons {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  gap: 1rem;
+}
+
+.home-btn {
+  padding: 0.75rem 1.75rem;
+  font-weight: 600;
+  border-radius: 30px;
+  text-decoration: none;
+  color: #fff !important;
+  background: linear-gradient(135deg, #4e73df, #224abe);
+  transition: transform 0.25s ease;
+}
+
+.home-btn:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(135deg, #224abe, #4e73df);
+}
