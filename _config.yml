@@ -18,6 +18,7 @@ author:
 ###############################################
 
 navbar-links:
+  Homepage: "index"
   Research: "research"
   Publications: "publications"
   CV: "cv"
