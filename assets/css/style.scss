@@ -1,24 +1,29 @@
-/* === Home Buttons Custom Style for Beautiful Jekyll === */
-.home-buttons {
-  display: flex !important;
-  justify-content: center !important;
-  align-items: center;
-  flex-wrap: wrap;
-  margin-top: 2rem;
-  gap: 1rem;
+/* ===== 两侧背景图（Beautiful Jekyll 专用） ===== */
+
+.side-background {
+  position: fixed;          /* 固定在视窗 */
+  top: 0;
+  width: 25vw;              /* 每侧占屏幕宽度 */
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;              /* 在正文后面 */
+  opacity: 0.25;            /* 学术风：不抢正文 */
 }
 
-.home-btn {
-  padding: 0.75rem 1.75rem;
-  font-weight: 600;
-  border-radius: 30px;
-  text-decoration: none;
-  color: #fff !important;
-  background: linear-gradient(135deg, #4e73df, #224abe);
-  transition: transform 0.25s ease;
+/* 左侧 */
+.left-bg {
+  left: 0;
+  background-image: url("/assets/img/home/cover_1.jpg");
 }
 
-.home-btn:hover {
-  transform: translateY(-2px);
-  background: linear-gradient(135deg, #224abe, #4e73df);
+/* 右侧 */
+.right-bg {
+  right: 0;
+  background-image: url("/assets/img/home/cover_2.jpg");
+}
+
+/* 中间正文稍微留白，防止压住背景 */
+.container {
+  background-color: rgba(255, 255, 255, 0.96);
 }
