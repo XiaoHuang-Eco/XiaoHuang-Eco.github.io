@@ -6,12 +6,14 @@ image: /assets/img/home-banner.jpg  # 可替换为你的科研照片
 ---
 
 <!-- 首页按钮 -->
-<div class="home-buttons">
-  <a href="/about" class="home-btn">About Me</a>
-  <a href="/research" class="home-btn">Research</a>
-  <a href="/publications" class="home-btn">Publications</a>
-  <a href="/cv" class="home-btn">CV</a>
-  <a href="/contact" class="home-btn">Contact</a>
+<div class="home-buttons-wrapper">
+  <div class="home-buttons">
+    <a href="/about" class="home-btn">About Me</a>
+    <a href="/research" class="home-btn">Research</a>
+    <a href="/publications" class="home-btn">Publications</a>
+    <a href="/cv" class="home-btn">CV</a>
+    <a href="/contact" class="home-btn">Contact</a>
+  </div>
 </div>
 
 ---
