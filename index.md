@@ -2,7 +2,7 @@
 layout: home
 title: Macroecology and more!
 subtitle: Exploring the large-scale patterns of frugivory, seed dispersal, and plant-animal interactions
-image: /assets/img/home-banner.jpg  # 可替换为你的科研照片
+image: /assets/img/cover_1.jpg  # 可替换为你的科研照片
 ---
 
 ## About Me
