@@ -5,17 +5,6 @@ subtitle: Exploring the large-scale patterns of frugivory, seed dispersal, and p
 image: /assets/img/home-banner.jpg  # 可替换为你的科研照片
 ---
 
-<!-- 首页按钮 -->
-<div class="home-buttons">
-  <a class="home-btn" href="/aboutme">About Me</a>
-  <a class="home-btn" href="/research">Research</a>
-  <a class="home-btn" href="/publications">Publications</a>
-  <a class="home-btn" href="/cv">CV</a>
-  <a class="home-btn" href="/contact">Contact</a>
-</div>
-
----
-
 ## About Me
 Ph.D. candidate in Macroecology at Wuhan Botanical Garden, Chinese Academy of Sciences.  
 Focused on the macroecology of frugivory and seed dispersal, especially the trait adaptation between frugivores and fleshy-fruited plants and how it influences seed dispersal effectiveness and biodiversity patterns on a large scale.
