@@ -18,7 +18,6 @@ author:
 ###############################################
 
 navbar-links:
-  About Me: "about"
   Research: "research"
   Publications: "publications"
   CV: "cv"
