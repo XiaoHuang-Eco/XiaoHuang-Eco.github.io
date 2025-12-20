@@ -5,7 +5,7 @@ photo: "/assets/img/cover_2.png"
 
 You can download my full academic CV here:
 
-**[Download CV (PDF)](/files/Xiao_Huang_CV.pdf)**
+**[Download CV (PDF)](/Xiao_Huang_CV.pdf)**
 
 ---
 
