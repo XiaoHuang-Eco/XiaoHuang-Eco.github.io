@@ -1,29 +1,28 @@
-/* ===== 两侧背景图（Beautiful Jekyll 专用） ===== */
-
+/* 两侧背景图 */
 .side-background {
-  position: fixed;          /* 固定在视窗 */
+  position: fixed;
   top: 0;
-  width: 25vw;              /* 每侧占屏幕宽度 */
   height: 100vh;
+  width: 25vw;
   background-size: cover;
   background-position: center;
-  z-index: -1;              /* 在正文后面 */
-  opacity: 0.25;            /* 学术风：不抢正文 */
+  z-index: -1;
+  opacity: 0.25;
 }
 
-/* 左侧 */
 .left-bg {
   left: 0;
   background-image: url("/assets/img/cover_1.jpg");
 }
 
-/* 右侧 */
 .right-bg {
   right: 0;
   background-image: url("/assets/img/cover_2.jpg");
 }
 
-/* 中间正文稍微留白，防止压住背景 */
-.container {
-  background-color: rgba(255, 255, 255, 0.96);
+/* 移动端隐藏 */
+@media (max-width: 900px) {
+  .side-background {
+    display: none;
+  }
 }
