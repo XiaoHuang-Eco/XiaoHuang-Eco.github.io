@@ -7,7 +7,7 @@ cover-img: "/assets/img/cover_2.png"
 ---
 
 ## About Me
-I am a PhD candidate in **Macroecology** at the **Wuhan Botanical Garden, Chinese Academy of Sciences**, and currently a visiting student in the ECONOVO, Aarhus University.
+I am a PhD candidate in **Macroecology** at the **Wuhan Botanical Garden, Chinese Academy of Sciences**, and currently a visiting student at the ECONOVO, Aarhus University.
 
 I received my Research Master’s degree in **Ecology, Evolution & Conservation** from **Imperial College London**, and my Bachelor’s degree in **Ecology** from **Sun Yat-Sen University**.
 
