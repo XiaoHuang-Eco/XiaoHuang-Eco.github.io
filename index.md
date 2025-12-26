@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Macroecology and more!
-subtitle: Exploring the large-scale patterns of frugivory, seed dispersal, and plant-animal interactions
+title: Functional traits and more!
+subtitle: Understanding biodiversity construction and maintenance on a trait-based perspective.
 before-content: cover-image.html 
 cover-img: "/assets/img/cover_2.png"
 ---
