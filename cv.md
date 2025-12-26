@@ -10,7 +10,7 @@ You can download my full academic CV here:
 ---
 
 ### Education
-- **Visiting Ph.D. student in Ecology**
+- **Visiting Ph.D. student in Ecology**  
   ECONOVO, Aarhus University (2025-ongoing)
 - **PhD candidate in Macroecology**  
   Wuhan Botanical Garden, Chinese Academy of Sciences (2022-ongoing)
