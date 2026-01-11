@@ -22,6 +22,7 @@ You can download my full academic CV here:
 ---
 
 ### Awards & Scholarship
+- 	Best Student Poster Reward at the 12th Biannual Conference of The International Biogeographic Society, Aarhus, Danmark (~ 1500 RMB) (2026)
 - China Scholarship Council Abroad Joint Ph.D. Scholarship (~80,000 RMB) (2025–2026)
 - Chinese Postgraduate Academic Scholarship (~124,000 RMB) (2022–2026)
 - 2nd Class Di Ao Scholarship (~1,000 RMB) (2025)
