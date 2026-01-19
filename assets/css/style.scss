@@ -29,41 +29,44 @@
   }
 }
 
-/* ===== Paper cover grid (Publications) ===== */
-
-.paper-cover-grid{
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 18px;
-  margin-top: 16px;
+/* ===== Publications: cover gallery (scoped) ===== */
+.pub-covers{
+  font: inherit; /* 防止字体被意外继承/覆盖 */
 }
 
-.paper-cover-card{
+.pub-covers .paper-cover-grid{
+  display: grid;
+  grid-template-columns: repeat(3, 160px); /* 固定三列 => 5张必然两排(3+2) */
+  gap: 16px;
+  justify-content: center; /* 容器宽时居中，不会贴左 */
+  margin: 18px 0 0 0;
+}
+
+.pub-covers .paper-cover-card{
   display: block;
-  border-radius: 14px;
+  border-radius: 12px;
   overflow: hidden;
   background: #fff;
   box-shadow: 0 6px 18px rgba(0,0,0,.12);
   transition: transform .15s ease, box-shadow .15s ease;
 }
 
-.paper-cover-card img{
+.pub-covers .paper-cover-card img{
   width: 100%;
-  height: 180px;        /* 强制统一高度 */
+  aspect-ratio: 3 / 4;   /* 强制统一比例（推荐封面用 3:4） */
+  object-fit: cover;      /* 填满且不变形（会裁边） */
   display: block;
-  object-fit: cover;    /* 不拉伸，自动裁剪填满 */
 }
 
-.paper-cover-card:hover{
+.pub-covers .paper-cover-card:hover{
   transform: translateY(-2px);
   box-shadow: 0 10px 26px rgba(0,0,0,.16);
 }
 
-/* 响应式 */
-@media (max-width: 900px){
-  .paper-cover-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
+/* 响应式：屏幕窄时改两列/一列 */
+@media (max-width: 700px){
+  .pub-covers .paper-cover-grid{ grid-template-columns: repeat(2, 160px); }
 }
-
-@media (max-width: 520px){
-  .paper-cover-grid{ grid-template-columns: 1fr; }
+@media (max-width: 420px){
+  .pub-covers .paper-cover-grid{ grid-template-columns: 1fr; }
 }
