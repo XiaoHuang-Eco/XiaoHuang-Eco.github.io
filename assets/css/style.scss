@@ -27,33 +27,41 @@
   }
 }
 
-.paper-cover-grid {
+/* ===== Paper cover grid (Publications) ===== */
+
+.paper-cover-grid{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 24px;
-  margin: 24px 0 40px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  margin-top: 16px;
 }
 
-.paper-cover-card {
-  margin: 0;
-  text-align: center;
+.paper-cover-card{
+  display: block;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(0,0,0,.12);
+  transition: transform .15s ease, box-shadow .15s ease;
 }
 
-.paper-cover-card img {
+.paper-cover-card img{
   width: 100%;
-  height: auto;
-  border-radius: 12px;
-  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.18);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  height: 180px;        /* 强制统一高度 */
+  display: block;
+  object-fit: cover;    /* 不拉伸，自动裁剪填满 */
 }
 
-.paper-cover-card img:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.24);
+.paper-cover-card:hover{
+  transform: translateY(-2px);
+  box-shadow: 0 10px 26px rgba(0,0,0,.16);
 }
 
-.paper-cover-card figcaption {
-  margin-top: 12px;
-  font-size: 0.95rem;
-  color: #334155;
+/* 响应式 */
+@media (max-width: 900px){
+  .paper-cover-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 520px){
+  .paper-cover-grid{ grid-template-columns: 1fr; }
 }
