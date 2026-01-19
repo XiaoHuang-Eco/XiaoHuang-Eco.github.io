@@ -36,7 +36,7 @@
 
 .pub-covers .paper-cover-grid{
   display: grid;
-  grid-template-columns: repeat(3, 180px); /* 固定三列 => 5张必然两排(3+2) */
+  grid-template-columns: repeat(3, 250px); /* 固定三列 => 5张必然两排(3+2) */
   gap: 16px;
   justify-content: center; /* 容器宽时居中，不会贴左 */
   margin: 18px 0 0 0;
