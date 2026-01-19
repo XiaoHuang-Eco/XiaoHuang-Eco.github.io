@@ -35,10 +35,11 @@
 }
 
 .pub-covers .paper-cover-grid{
-  grid-template-columns: repeat(3, 150px);
-}
-@media (max-width: 700px){
-  .pub-covers .paper-cover-grid{ grid-template-columns: repeat(2, 150px); }
+  display: grid;
+  grid-template-columns: repeat(3, 160px); /* 固定三列 => 5张必然两排(3+2) */
+  gap: 16px;
+  justify-content: center; /* 容器宽时居中，不会贴左 */
+  margin: 18px 0 0 0;
 }
 
 .pub-covers .paper-cover-card{
@@ -52,8 +53,8 @@
 
 .pub-covers .paper-cover-card img{
   width: 100%;
-  aspect-ratio: 3 / 4;     /* 竖版封面框 */
-  object-fit: cover;        /* 填满，会裁掉少量边缘 */
+  aspect-ratio: 3 / 4;   /* 强制统一比例（推荐封面用 3:4） */
+  object-fit: cover;      /* 填满且不变形（会裁边） */
   display: block;
 }
 
