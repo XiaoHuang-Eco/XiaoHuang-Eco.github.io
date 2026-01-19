@@ -1,3 +1,12 @@
-<section class="homepage-cover">
-  <img src="/assets/img/cover_1.jpg" alt="Cover Photo" class="cover-photo">
-</section>
+{%- if page.cover-img -%}
+  {%- assign cover_src = page.cover-img -%}
+  {%- if page.cover-img.first -%}
+    {%- assign cover_src = page.cover-img[0] -%}
+    {%- if cover_src.first -%}
+      {%- assign cover_src = cover_src.first -%}
+    {%- endif -%}
+  {%- endif -%}
+  <section class="homepage-cover">
+    <img src="{{ cover_src }}" alt="Cover Photo" class="cover-photo">
+  </section>
+{%- endif -%}
