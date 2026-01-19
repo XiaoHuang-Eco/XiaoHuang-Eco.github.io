@@ -3,7 +3,12 @@ layout: home
 title: Functional traits and more!
 subtitle: Understanding biodiversity construction and maintenance on a trait-based perspective.
 before-content: cover-image.html 
-cover-img: "/assets/img/cover_2.png"
+cover-img:
+  - "/assets/img/cover%20image/AR.png"
+  - "/assets/img/cover%20image/BC.png"
+  - "/assets/img/cover%20image/EL.png"
+  - "/assets/img/cover%20image/JE.png"
+  - "/assets/img/cover%20image/PB.png"
 ---
 
 ## About Me
