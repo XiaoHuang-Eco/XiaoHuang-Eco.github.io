@@ -31,3 +31,8 @@ You can download my full academic CV here:
 - 3rd Place Oral Presentation Award, 2nd Optics Valley Conference for Young Researchers (~1,500 RMB) (2024)
 - Excellent Student Award, Chinese Academy of Sciences (2023)
 - 3rd Class Excellent Student Award, Sun Yat‑sen University (~3,000 RMB) (2018)
+
+---
+
+### Peer Reviewer
+I serve as a peer reviewer for leading international and national journals in ecology, including Journal of Animal Ecology, Ecography, Oikos, Journal of Arid Environments, Integrative Zoology, and Zoological Research, as well as major Chinese journals such as Biodiversity Science（《生物多样性》） and Chinese Journal of Plant Ecology（《植物生态学报》）.
