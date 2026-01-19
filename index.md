@@ -3,13 +3,10 @@ layout: home
 title: Functional traits and more!
 subtitle: Understanding biodiversity construction and maintenance on a trait-based perspective.
 before-content: cover-image.html 
-cover-img:
-  - "/assets/img/cover%20image/AR.png"
-  - "/assets/img/cover%20image/BC.png"
-  - "/assets/img/cover%20image/EL.png"
-  - "/assets/img/cover%20image/JE.png"
-  - "/assets/img/cover%20image/PB.png"
+cover-img: "/assets/img/cover_2.png"
 ---
+
+
 
 ## About Me
 I am a PhD candidate in **Macroecology** at the **Wuhan Botanical Garden, Chinese Academy of Sciences**, and currently a visiting student at the ECONOVO, Aarhus University.
