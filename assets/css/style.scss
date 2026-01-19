@@ -26,3 +26,34 @@
     display: none;
   }
 }
+
+.paper-cover-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 24px;
+  margin: 24px 0 40px;
+}
+
+.paper-cover-card {
+  margin: 0;
+  text-align: center;
+}
+
+.paper-cover-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.18);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.paper-cover-card img:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.24);
+}
+
+.paper-cover-card figcaption {
+  margin-top: 12px;
+  font-size: 0.95rem;
+  color: #334155;
+}

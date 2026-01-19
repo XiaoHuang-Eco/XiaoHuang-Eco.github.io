@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+  <title id="title">Large old trees sustain avian communities and critical plant–bird interactions in highly urbanised environments</title>
+  <desc id="desc">Stylized cover with blue gradient and title text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1d4ed8" />
+      <stop offset="100%" stop-color="#93c5fd" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)" />
+  <rect x="40" y="40" width="520" height="720" rx="28" fill="#ffffff" opacity="0.92" />
+  <text x="80" y="160" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#0f172a" font-weight="700">Biological Conservation</text>
+  <text x="80" y="240" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#0f172a" font-weight="600">
+    <tspan x="80" dy="0">Large old trees sustain</tspan>
+    <tspan x="80" dy="30">avian communities and</tspan>
+    <tspan x="80" dy="30">critical plant–bird</tspan>
+    <tspan x="80" dy="30">interactions</tspan>
+  </text>
+  <text x="80" y="380" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#334155">Lin, Huang, Xia, Wu &amp; Chen</text>
+  <text x="80" y="680" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#1d4ed8">2025</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+  <title id="title">Weaker plant–frugivore trait matching towards the tropics and on islands</title>
+  <desc id="desc">Stylized cover with green gradient and title text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#5eead4" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)" />
+  <rect x="40" y="40" width="520" height="720" rx="28" fill="#ffffff" opacity="0.92" />
+  <text x="80" y="160" font-family="'Helvetica Neue', Arial, sans-serif" font-size="28" fill="#0f172a" font-weight="700">Ecology Letters</text>
+  <text x="80" y="240" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#0f172a" font-weight="600">
+    <tspan x="80" dy="0">Weaker plant–frugivore</tspan>
+    <tspan x="80" dy="34">trait matching towards</tspan>
+    <tspan x="80" dy="34">the tropics and on islands</tspan>
+  </text>
+  <text x="80" y="380" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#334155">Huang, Dalsgaard &amp; Chen</text>
+  <text x="80" y="680" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#0f766e">2025</text>
+</svg>

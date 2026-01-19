@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+  <title id="title">Humans perceive but animals don’t: Pitfalls in using plasticine models for assessing biotic interactions</title>
+  <desc id="desc">Stylized cover with coral gradient and title text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fb7185" />
+      <stop offset="100%" stop-color="#fef3c7" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)" />
+  <rect x="40" y="40" width="520" height="720" rx="28" fill="#ffffff" opacity="0.94" />
+  <text x="80" y="160" font-family="'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#0f172a" font-weight="700">Proceedings B</text>
+  <text x="80" y="240" font-family="'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#0f172a" font-weight="600">
+    <tspan x="80" dy="0">Humans perceive but</tspan>
+    <tspan x="80" dy="32">animals don’t</tspan>
+    <tspan x="80" dy="32">Pitfalls in using</tspan>
+    <tspan x="80" dy="32">plasticine models</tspan>
+  </text>
+  <text x="80" y="390" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#334155">Huang &amp; Chen</text>
+  <text x="80" y="680" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#b91c1c">2025</text>
+</svg>
