@@ -34,5 +34,5 @@ You can download my full academic CV here:
 
 ---
 
-### Peer Reviewer
-I serve as a peer reviewer for leading international and national journals in ecology, including Journal of Animal Ecology, Ecography, Oikos, Journal of Arid Environments, Integrative Zoology, and Zoological Research, as well as major Chinese journals such as Biodiversity Science（《生物多样性》） and Chinese Journal of Plant Ecology（《植物生态学报》）.
+### Peer Reviewe
+Reviewer for leading international and national journals in ecology, including *Journal of Animal Ecology*, *Ecography*, *Oikos*, *Journal of Arid Environments*, *Integrative Zoology*, and *Zoological Research*, as well as major Chinese journals such as *Biodiversity Science*（**《生物多样性》**） and *Chinese Journal of Plant Ecology*（**《植物生态学报》**）.
