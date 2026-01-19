@@ -2,6 +2,41 @@
 title: Publications
 ---
 
+## Published Paper Covers
+
+<div class="paper-cover-grid">
+  <figure class="paper-cover-card">
+    <a href="https://doi.org/10.1111/ele.70061">
+      <img src="/assets/img/papers/cover-plant-frugivore.svg" alt="Cover for Weaker plant–frugivore trait matching towards the tropics and on islands" loading="lazy">
+    </a>
+    <figcaption>Weaker plant–frugivore trait matching towards the tropics and on islands</figcaption>
+  </figure>
+  <figure class="paper-cover-card">
+    <a href="https://doi.org/10.1098/rspb.2025.2247">
+      <img src="/assets/img/papers/cover-plasticine-models.svg" alt="Cover for Humans perceive but animals don’t: Pitfalls in using plasticine models for assessing biotic interactions" loading="lazy">
+    </a>
+    <figcaption>Humans perceive but animals don’t: Pitfalls in using plasticine models for assessing biotic interactions</figcaption>
+  </figure>
+  <figure class="paper-cover-card">
+    <a href="https://doi.org/10.1016/j.biocon.2025.111582">
+      <img src="/assets/img/papers/cover-old-trees.svg" alt="Cover for Large old trees sustain avian communities and critical plant–bird interactions in highly urbanised environments" loading="lazy">
+    </a>
+    <figcaption>Large old trees sustain avian communities and critical plant–bird interactions in highly urbanised environments</figcaption>
+  </figure>
+  <figure class="paper-cover-card">
+    <a href="https://doi.org/10.1186/s40657-021-00245-w">
+      <img src="/assets/img/papers/cover-geolocators.svg" alt="Cover for Using light-level geolocators to monitor incubation behaviour of a cavity-nesting bird Apus apus pekinensis" loading="lazy">
+    </a>
+    <figcaption>Using light-level geolocators to monitor incubation behaviour of a cavity-nesting bird Apus apus pekinensis</figcaption>
+  </figure>
+  <figure class="paper-cover-card">
+    <a href="https://doi.org/10.1111/1365-2745.14480">
+      <img src="/assets/img/papers/cover-large-seeds.svg" alt="Cover for Large seeds as a defensive strategy against partial granivory in the Fagaceae" loading="lazy">
+    </a>
+    <figcaption>Large seeds as a defensive strategy against partial granivory in the Fagaceae</figcaption>
+  </figure>
+</div>
+
 ### Weaker plant–frugivore trait matching towards the tropics and on islands
 **Huang, X., Dalsgaard, B. & Chen, S.-C. (2025)**  
 *Ecology Letters* 28: e70061.  
@@ -47,4 +82,3 @@ title: Publications
 ### Fruit-type composition and climate drive latitudinal patterns in fruiting seasons across China
 **Huang, X. & Chen, S.-C.**  
 *In preparation*
-

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+  <title id="title">Large seeds as a defensive strategy against partial granivory in the Fagaceae</title>
+  <desc id="desc">Stylized cover with amber gradient and title text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fde68a" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)" />
+  <rect x="40" y="40" width="520" height="720" rx="28" fill="#ffffff" opacity="0.93" />
+  <text x="80" y="160" font-family="'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#0f172a" font-weight="700">Journal of Ecology</text>
+  <text x="80" y="240" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#0f172a" font-weight="600">
+    <tspan x="80" dy="0">Large seeds as a</tspan>
+    <tspan x="80" dy="30">defensive strategy against</tspan>
+    <tspan x="80" dy="30">partial granivory</tspan>
+  </text>
+  <text x="80" y="380" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#334155">Chen, Antonelli, Huang et al.</text>
+  <text x="80" y="680" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#b45309">2025</text>
+</svg>
