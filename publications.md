@@ -2,7 +2,8 @@
 title: Publications
 ---
 
-## Published Paper Covers
+<div class="pub-covers"> <div class="paper-cover-grid"> <a class="paper-cover-card" href="https://doi.org/10.1111/ele.70061"> <img src="/assets/img/cover image/EL.png" alt="Ecology Letters cover" loading="lazy"> </a> <a class="paper-cover-card" href="https://doi.org/10.1098/rspb.2025.2247"> <img src="/assets/img/cover image/PB.png" alt="PRSB cover" loading="lazy"> </a> <a class="paper-cover-card" href="https://doi.org/10.1016/j.biocon.2025.111582"> <img src="/assets/img/cover image/BC.png" alt="Biological Conservation cover" loading="lazy"> </a> <a class="paper-cover-card" href="https://doi.org/10.1186/s40657-021-00245-w"> <img src="/assets/img/cover image/AR.png" alt="Avian Research cover" loading="lazy"> </a> <a class="paper-cover-card" href="https://doi.org/10.1111/1365-2745.14480"> <img src="/assets/img/cover image/JE.png" alt="Journal of Ecology cover" loading="lazy"> </a> </div> </div>
+
 
 ### Weaker plant–frugivore trait matching towards the tropics and on islands
 **Huang, X., Dalsgaard, B. & Chen, S.-C. (2025)**  
@@ -50,5 +51,3 @@ title: Publications
 **Huang, X. & Chen, S.-C.**  
 *In preparation*
 
-
-<div class="pub-covers"> <div class="paper-cover-grid"> <a class="paper-cover-card" href="https://doi.org/10.1111/ele.70061"> <img src="/assets/img/cover image/EL.png" alt="Ecology Letters cover" loading="lazy"> </a> <a class="paper-cover-card" href="https://doi.org/10.1098/rspb.2025.2247"> <img src="/assets/img/cover image/PB.png" alt="PRSB cover" loading="lazy"> </a> <a class="paper-cover-card" href="https://doi.org/10.1016/j.biocon.2025.111582"> <img src="/assets/img/cover image/BC.png" alt="Biological Conservation cover" loading="lazy"> </a> <a class="paper-cover-card" href="https://doi.org/10.1186/s40657-021-00245-w"> <img src="/assets/img/cover image/AR.png" alt="Avian Research cover" loading="lazy"> </a> <a class="paper-cover-card" href="https://doi.org/10.1111/1365-2745.14480"> <img src="/assets/img/cover image/JE.png" alt="Journal of Ecology cover" loading="lazy"> </a> </div> </div>
