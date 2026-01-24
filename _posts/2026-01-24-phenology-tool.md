@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A lightweight interactive phenology tool"
-subtitle: "Quick exploration and notes"
 date: 2026-01-24
 categories: [tools, phenology]
 tags: [phenology, fruiting, tools]
