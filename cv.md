@@ -12,10 +12,8 @@ You can download my full academic CV here:
 ---
 
 ### Education
-- **Visiting Ph.D. student in Ecology**  
-  ECONOVO, Aarhus University (2025-ongoing)
-- **PhD candidate in Macroecology**  
-  Wuhan Botanical Garden, Chinese Academy of Sciences (2022-ongoing)
+- **PhD in Macroecology**  
+  Wuhan Botanical Garden, Chinese Academy of Sciences (2022-2026)
 - **MRes in Ecology, Evolution & Conservation**  
   Imperial College London (2020–2021)
 - **BSc in Ecology**  
@@ -24,6 +22,7 @@ You can download my full academic CV here:
 ---
 
 ### Awards & Scholarship
+- Outstanding Graduate, University of Chinese Academy of Sciences (2026)
 - Best Student Poster Reward at the 12th Biannual Conference of The International Biogeographic Society, Aarhus, Danmark (~ 1500 RMB) (2026)
 - China Scholarship Council Abroad Joint Ph.D. Scholarship (~80,000 RMB) (2025–2026)
 - Chinese Postgraduate Academic Scholarship (~124,000 RMB) (2022–2026)
