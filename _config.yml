@@ -19,8 +19,8 @@ author:
 
 navbar-links:
   Homepage: "index"
-  Blog: "blog"
-  Research: "research"
+ ## Blog: "blog"
+ ## Research: "research"
   Publications: "publications"
   CV: "cv"
   Contact: "contact"
