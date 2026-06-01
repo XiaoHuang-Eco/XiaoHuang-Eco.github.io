@@ -37,7 +37,7 @@ title: Publications
 
 ### Integrating macroecological information into predictive model of biotic interactions
 **Huang, X., Dalsgaard, B., Svenning, J.-S. & Chen, S.-C.**  
-*Under review at Frontiers in Ecology and the Environment*
+*Major revision at Frontiers in Ecology and the Environment*
 
 ### Weak and plastic trait matching in novel plant–frugivore interactions
 **Huang, X., Svenning, J.-S., Dalsgaard, B. & Chen, S.-C.**  
@@ -45,7 +45,7 @@ title: Publications
 
 ### When utilisation and invasion meet across the global spectrum of plant form and function
 **Huang, X., Ryan, P., ……, Chen, S.-C. & Pironon, P.**  
-*In preparation*
+*Submitted*
 
 ### Fruit-type composition and climate drive latitudinal patterns in fruiting seasons across China
 **Huang, X. & Chen, S.-C.**  
